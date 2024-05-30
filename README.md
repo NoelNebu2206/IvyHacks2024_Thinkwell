@@ -1,4 +1,4 @@
-# ThinkWell AI: Mental Health Support Application
+# ThinkWell AI: Mental Health Companion
 
 ThinkWell AI is an advanced mental health support application designed to offer therapeutic assistance through Cognitive Behavioral Therapy (CBT) techniques. Leveraging a FastAPI backend integrated with various machine learning models and services, ThinkWell AI provides real-time, personalized mental health support. Users interact with the ThinkWell AI chatbot via a friendly web interface powered by Streamlit, ensuring an engaging conversational experience.
 
